@@ -3,3 +3,5 @@ nginx
 minio/minio
 minio/minio:RELEASE.2023-04-28T18-11-17Z
 portainer/portainer
+postgres:14
+postgres:12
