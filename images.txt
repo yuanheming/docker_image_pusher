@@ -1,3 +1,2 @@
-tpcorg/hammerdb:latest-cloudtk
-portainer/helper-reset-password
-portainer/portainer:latest
+
+portainer/portainer-docker-extension:2.21.2
