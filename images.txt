@@ -1,4 +1,1 @@
-
-portainer/portainer-docker-extension:2.21.2
-rancher/rancher:v2.6.6-rc1
-rancher/rancher:stable
+netdata/netdata
